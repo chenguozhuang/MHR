@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad 棱镜" CreatedByVersion="8.0.2.263" Login="生产力" DateTime="2023-07-02T16:09:12+08:00"/>
+<MostRecentVersion CreatedByProgram="GraphPad 棱镜" CreatedByVersion="8.0.2.263" Login="生产力" DateTime="2024-03-11T00:16:13+08:00"/>
+</Created>
+<DefGraphButton ButtonID="209"/>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>项目 信息1</Title>
+<Notes/>
+<Constant><Name>实验日期</Name><Value>2023-07-02</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+
+<Ref ID="Table0" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="none" TableType="OneWay" EVFormat="AsteriskAfterNumber">
+<Title>Metanalysis</Title>
+<FloatingNote ID="Sticky0" Auto="0" Color="Yellow" Left="1630" Top="375" Width="300" Height="837" ScrWidth="1536" ScrHeight="864" ScrDPI="120">
+
+<B><Font Size="11" Color="#000000" Face="Verdana">How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Each column represents a different study in the metanalysis. The second row tabulates the relative risk, while the first and third rows show the confidence limits. The confidence limits were calculated elsewhere or obtained from publications.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>The graph</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>On the welcome dialog, this sample automatically chose to plot the median with range. Prism plots the symbol at the median, which is the middle value of each column, and plots the error bars down to the lowest and up to the highest value for each column. (Prism doesn't 'know' that you entered the confidence limits of relative risks, but simply plots the median and range of what you entered.)</Font>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>You probably will want to change the horizontal axis of the graph to a log scale. To do this, double-click on the axis and choose a log10 scale in the upper right of the Format Axes dialog.</Font>
+</FloatingNote>
+
+<RowTitlesColumn Width="114">
+<Subcolumn>
+<d>lower limit</d>
+<d>relative risk</d>
+<d>upper limit</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="114" Decimals="2" Subcolumns="1">
+<Title>CA-199</Title>
+<Subcolumn>
+<d>1</d>
+<d>1</d>
+<d>1</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="143" Decimals="2" Subcolumns="1">
+<Title>Vascular invasion</Title>
+<Subcolumn>
+<d>0.9</d>
+<d>1.45</d>
+<d>2.35</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="114" Decimals="2" Subcolumns="1">
+<Title>Complication</Title>
+<Subcolumn>
+<d>0.91</d>
+<d>1.63</d>
+<d>2.92</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="114" Decimals="2" Subcolumns="1">
+<Title><B>MHR</B></Title>
+<Subcolumn>
+<d>1.23</d>
+<d>1.96</d>
+<d>3.11</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--分析、 图形和布局为压缩的二进制文件.不要编辑此文件的一部分.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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
+vaRx+Daec/LA+5X3UMHw/wcAAP//AwDj4SQI</Template></GraphPadPrismFile>
